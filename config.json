@@ -79,7 +79,7 @@
             "server": "smtp.gmail.com",
             "from": "security-bot <firmianay@163.com>",
             "receiver": "a@163.com,b@163.com",
-            "key": "xxxxxxxxxx"
+            "key": "132456789"
         }
     },
 
